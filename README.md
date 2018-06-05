@@ -2,7 +2,7 @@
 This simple web application that shows RSS Feeds. I wrote very light unit tests with **Jasmine Framework** to validate to the code for DOM manipulation, event handling etc.
 
 
-#Run/Clone The Project
+## Run/Clone The Project
 
 Clone the repository: ```git clone https://github.com/gunayanil/feed-reader-testing```
 Open index.html in your browser.
