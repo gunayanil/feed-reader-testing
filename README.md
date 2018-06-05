@@ -4,7 +4,7 @@ This simple web application that shows RSS Feeds. I wrote very light unit tests 
 
 ## Run/Clone The Project
 
-Clone the repository: ```git clone https://github.com/gunayanil/feed-reader-testing```
+Clone the repository: ```git clone https://github.com/gunayanil/feed-reader-testing.git```
 Open index.html in your browser.
 
 
